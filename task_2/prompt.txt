@@ -1,0 +1,10 @@
+I'm a QA engineer. I found a bug on Safari. See description below:
+“Logout button doesn’t work on Safari. It just doesn’t respond.”
+
+I need to convert existing description into bug-ticket structured like:
+- Title
+- Description
+- Steps to Reproduce
+- Expected vs Actual Behavior
+- Environment (if known)
+- Severity or Impact
