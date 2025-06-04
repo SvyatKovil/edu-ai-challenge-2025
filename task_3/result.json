@@ -1,0 +1,25 @@
+{
+  "summary": "The document discusses the growing popularity of remote work, especially following the global pandemic. It highlights several benefits for employees and employers, such as increased flexibility, improved work-life balance, and reduced operational costs. However, it also addresses key challenges including employee isolation, productivity issues, and difficulties in monitoring performance. The conclusion suggests that remote work is likely to remain prevalent, with hybrid work models and advancing technology aiding in adaptation.",
+  "sentiment": "neutral",
+  "sentiment_score": 0,
+  "metadata": {
+    "word_count": 211,
+    "topic": "Remote Work Trends and Implications",
+    "document_title": "task_3_input.docx",
+    "detected_tone": [
+      "informative",
+      "balanced"
+    ],
+    "key_phrases": [
+      "remote work",
+      "flexible working arrangements",
+      "job satisfaction",
+      "work-life balance",
+      "operational costs",
+      "employee isolation",
+      "productivity challenges",
+      "hybrid models",
+      "team communication"
+    ]
+  }
+}
