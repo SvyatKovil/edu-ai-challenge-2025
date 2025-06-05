@@ -1,0 +1,6 @@
+I have a code snipper in attachments:
+Please analyze it and give some recommendations like:
+ Developer
+ Security Expert
+ Performance Specialist
+Provide answer per each role
